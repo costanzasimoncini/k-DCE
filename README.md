@@ -11,7 +11,7 @@ The code is tuned to segment kidney cortex, medulla and tumor, but can also be u
 
 Open the `main.m` script and set the parameters specific to your data. Compulsory variables to define are: 
 
-	> - img_folder   : the folder where you saved your Nifti images
-	> - t            : the acquisition times of your DCE data, in seconds
+	- `img_folder`   : the folder where you saved your Nifti images
+	- `t`            : the acquisition times of your DCE data, in seconds
 
 Run the `main.m` script in Matlab.
