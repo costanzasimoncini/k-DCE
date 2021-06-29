@@ -42,4 +42,4 @@ clustering3D
 
 
 %% save Nifti image with clusters labels
-niftiwrite(single(pixel_labels), [folder_out 'Segmentation.nii'], info)
+niftiwrite(single(pixel_labels), [folder_out 'segmentation.nii'], info)
